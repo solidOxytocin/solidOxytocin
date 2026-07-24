@@ -25,60 +25,45 @@ I ship now, not a party trick.
 
 **Languages**
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=cs,java,js,kotlin,php,python,ts" height="60" alt="C#, Java, JavaScript, Kotlin, PHP, Python, TypeScript" />
+
+<sub>C# · Java · JavaScript · Kotlin · PHP · Python · SQL · TypeScript</sub>
 
 **Frontend / Mobile**
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-![Expo Go](https://img.shields.io/badge/Expo%20Go-000020?style=flat-square&logo=expo&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![TanStack Query](https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=angular,capacitor,expo,nextjs,react,reactnative,redux,tanstack" height="60" alt="Angular, Capacitor, Expo, Next.js, React, React Native, Redux, TanStack Query" />
+
+<sub>Angular · Capacitor · Expo Go · Next.js · React · React Native · Redux · TanStack Query</sub>
 
 **Backend**
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Deno](https://img.shields.io/badge/Deno-70FFAF?style=flat-square&logo=deno&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Prisma ORM](https://img.shields.io/badge/Prisma%20ORM-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![REST API design](https://img.shields.io/badge/REST%20API%20design-6BA539?style=flat-square&logo=openapiinitiative&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=dotnet,deno,express,graphql,laravel,nodejs,prisma,swagger" height="60" alt=".NET, Deno, Express, GraphQL, Laravel, Node.js, Prisma, REST APIs" />
+
+<sub>.NET · Deno · Express · GraphQL · Laravel · Node.js · Prisma ORM · REST API design</sub>
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=postgres,mongodb" height="60" alt="PostgreSQL, MongoDB" />
+
+<sub>PostgreSQL · MongoDB · SQL</sub>
 
 **Testing**
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
-![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=playwright,vitest" height="60" alt="Playwright, Vitest" />
+
+<sub>Playwright · Vitest</sub>
 
 **Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman,vscode" height="60" alt="Git, GitHub, Postman, VS Code" />
+
+<sub>Git · GitHub · Postman · VS Code</sub>
 
 **AI Tools**
 
-![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=claude&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,cursor,gemini" height="60" alt="Claude Code, Cursor, Gemini" />
+
+<sub>Claude Code · Cursor · Gemini</sub>
 
 ---
 
