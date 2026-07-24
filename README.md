@@ -108,7 +108,9 @@ I ship now, not a party trick.
   </tr>
   <tr>
     <td width="150" align="center" valign="top">
+      <a href="https://drive.google.com/file/d/1LNAQDi7qu00CJxeNXTHuKptOTn9m3P6W/view?usp=sharing">
       <img src="assets/ilocos-sur-power-notifier.png" width="110" alt="Ilocos Sur Power Notifier app icon" />
+      </a>
     </td>
     <td valign="top">
       <strong>Ilocos Sur Power Notifier</strong><br />
