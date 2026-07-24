@@ -149,7 +149,7 @@ I ship now, not a party trick.
 
 ### What I'm into right now
 
-Going deeper on system design and backend fundamentals — auth internals,
-event-driven architecture, and actually getting good at testing.
+I'm diving deeper into AI engineering—learning tools like Claude Code, AI orchestration, agentic workflows, skills, RAG (Retrieval-Augmented Generation), MCP, tool calling, prompt engineering, and building autonomous AI agents that integrate with real-world applications.
+
 
 📫 Say hi: [LinkedIn](https://www.linkedin.com/in/clark-adam-arconado-a759981a9/) · [Email](mailto:clarkadamarconado@gmail.com)
