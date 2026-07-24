@@ -4,8 +4,8 @@
 
 Full stack dev from Ilocos Sur, Philippines. Been at it for about 5 years now,
 mostly keeping real production systems alive rather than spinning up side
-projects that die in a week. AWS Certified Developer – Associate, if that
-matters to you.
+projects that die in a week. AWS certified too, if that matters to you —
+badge is further down.
 
 I lean backend — Node/Express, Prisma, PostgreSQL, serverless on AWS — but I'm
 happy anywhere in the stack. Some things I've done that I'm proud of: led an
@@ -67,6 +67,28 @@ I ship now, not a party trick.
 
 ---
 
+### Certifications
+
+<table>
+  <tr>
+    <td width="150" align="center">
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/94b3250c9bae43ba91a70e5a11803f72">
+        <img src="https://images.credly.com/size/340x340/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="120" alt="AWS Certified Developer – Associate badge" />
+      </a>
+    </td>
+    <td>
+      <strong>AWS Certified Developer – Associate</strong><br />
+      Amazon Web Services<br /><br />
+      <sub>Lambda, DynamoDB, API Gateway, Cognito, IAM, CI/CD — basically the
+      stuff I already reach for at work, so the exam mostly confirmed habits
+      instead of teaching me new ones.</sub><br /><br />
+      <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/94b3250c9bae43ba91a70e5a11803f72">Verify credential →</a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ### Stuff I'm building
 
 **[Ilocos Sur Property](https://ilocossurproperty.com)** — a live property
@@ -80,8 +102,17 @@ ISECO only posts them to Facebook, which is useless if you're not scrolling,
 so I built an event-driven pipeline: scraper → Supabase Edge Function → LLM
 enrichment → FCM fan-out. Flutter client.
 
-**HI: Hand Ilocano** — a real-time Ilocano sign language translator in Python
-+ MediaPipe. This was my undergrad thesis and it won Best in Thesis.
+---
+
+### From the archive 🗄️
+
+**HI: Hand Ilocano** — my college thesis. A real-time Ilocano sign language
+translator built with Python + MediaPipe, back when I was still figuring out
+what I was doing. It won Best in Thesis, which I'm still pretty happy about.
+
+Deprecated and no longer maintained — the dependencies have long since moved
+on and I haven't touched it since defense. Leaving it here because I'm proud
+of it, not because you should run it.
 
 ---
 
