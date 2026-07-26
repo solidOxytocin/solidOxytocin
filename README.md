@@ -123,10 +123,9 @@ you can check my projects further down below.
       but I deleted FB to fix doom scrolling.
       Solution:
       Ilocos Sur Power Notifier App. A push notifications for power
-      outages in my province. ISECO only posts them to Facebook, which is useless if 
-      you're not scrolling, not following the page, the need to press the bell icon or 
-      notify settings and NEED FACEBOOK!  I built an event-driven pipeline: scraper →
-      Supabase Edge Function → LLM enrichment → FCM fan-out.
+      outages in my province. ISECO only posts them to Facebook, which is useless if you dot have
+      Facebook, you're not scrolling, not following the page, the need to press the bell icon or 
+      notify settings. I built an event-driven pipeline: scraper → Supabase Edge Function → LLM enrichment → FCM fan-out.
     </td>
   </tr>
 </table>
