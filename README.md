@@ -120,7 +120,7 @@ you can check my projects further down below.
       <strong>Ilocos Sur Power Notifier</strong><br />
       <sub>Flutter · Supabase Edge Functions · FCM · LLM enrichment</sub><br /><br />
       Problem: My Local Power Provider(ISECO) only post on facebook for powered Schedule outages,
-      but I deleted FB to fix doom scrolling.
+      but I deleted FB to fix my doom scrolling issue.
       Solution:
       Ilocos Sur Power Notifier App. A push notifications for power
       outages in my province. ISECO only posts them to Facebook, which is useless if you dot have
