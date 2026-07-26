@@ -8,7 +8,7 @@ projects that die in a week. AWS certified too, if that matters to you —
 badge is further down.
 
 I lean backend — Node/Express, Prisma, PostgreSQL, serverless on AWS — but I'm
-happy anywhere in the stack. Some things I've done that I'm proud of: led an
+happy anywhere in the stack. Some things I've done that I'm proud of: pioneered an
 Android → Angular + Capacitor rewrite, moved auth over to Cognito and dropped
 our crash rate ~70%, and I currently look after three production apps used by
 2,000+ people.
