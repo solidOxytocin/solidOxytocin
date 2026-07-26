@@ -16,6 +16,10 @@ our crash rate ~70%, and I currently look after three production apps used by
 I also build with agentic AI daily. Claude Code and Cursor are just part of how
 I ship now, not a party trick.
 
+Outside of work I also do side projects that fix my own problems or just finding
+ways to hone my skills more and explore other tech stack, if that also matters to you
+you can check my projects further down below.
+
 **Portfolio:** [dev-clark-adam.vercel.app](https://dev-clark-adam.vercel.app)
 **Currently:** open to remote work with foreign teams
 
