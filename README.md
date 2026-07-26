@@ -105,7 +105,7 @@ you can check my projects further down below.
     <td valign="top">
       <strong><a href="https://ilocossurproperty.com">Ilocos Sur Property</a></strong><br />
       <sub>React Native · Express · Prisma · PostgreSQL · Cloudinary · Google Maps</sub><br /><br />
-      A live property listing platform I built for a local broker. 52 active
+      A live property listing platform I built for a local broker. 50+ active
       listings across three cities. Source is private, but I'm happy to walk
       you through the architecture on a call.
     </td>
