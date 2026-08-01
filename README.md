@@ -104,7 +104,7 @@ you can check my projects further down below.
     </td>
     <td valign="top">
       <strong><a href="https://ilocossurproperty.com">Ilocos Sur Property</a></strong><br />
-      <sub>React Native · Express · Prisma · PostgreSQL · Cloudinary · Google Maps</sub><br /><br />
+      <sub>React · Express · Prisma · PostgreSQL · Cloudinary · Google Maps</sub><br /><br />
       A live property listing platform I built for a local broker. 50+ active
       listings across three cities. Source is private, but I'm happy to walk
       you through the architecture on a call.
@@ -118,7 +118,7 @@ you can check my projects further down below.
     </td>
     <td valign="top">
       <strong>Ilocos Sur Power Notifier</strong><br />
-      <sub>Flutter · Supabase Edge Functions · FCM · LLM enrichment</sub><br /><br />
+      <sub>React Native · Supabase Edge Functions · FCM · LLM enrichment</sub><br /><br />
       Problem: My Local Power Provider(ISECO) only post on facebook for powered Schedule outages,
       but I deleted FB to fix my doom scrolling issue.
       Solution:
