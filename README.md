@@ -141,7 +141,7 @@ you can check my projects further down below.
     </td>
     <td valign="top">
       <strong>HI: Hand Ilocano</strong> · <sub><b>DEPRECATED</b></sub><br />
-      <sub>Python · MediaPipe · College thesis</sub><br /><br />
+      <sub>Android Java · Python · MediaPipe · College thesis</sub><br /><br />
       A real-time Ilocano sign language translator, built back when I was still
       figuring out what I was doing. It won Best in Thesis, which I'm still
       pretty happy about.<br /><br />
